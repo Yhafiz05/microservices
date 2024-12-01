@@ -1,4 +1,4 @@
-# Deployment of some microservices locally with docker and on AWS with EKS
+# Deployment of some microservices locally with docker and on AWS with ECS
 
 ## Prerequisites
 1. Have configured the aws commade line
